@@ -672,7 +672,11 @@ a {
   .block-5 ul li.email:before {
     content: "\f0e0"; }
   .block-5 ul li.phone:before {
-    content: "\f095"; }
+    content: "\f095"; 
+  }
+    .block-5 ul li.person:before {
+        content: "\f007";
+    }
 
 .block-6 {
   display: block; }
